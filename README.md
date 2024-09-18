@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkimumich
+- 👋 Hi, I’m Dylan
 - 👀 I’m interested in Data Science / SWE
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...
